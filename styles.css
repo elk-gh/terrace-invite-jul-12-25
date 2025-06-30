@@ -83,3 +83,16 @@ body {
 #confirm-button:hover {
     background-color: #00e6b3;
 }
+
+.notes {
+  margin-top: 20px;
+  background-color: #fff4e6;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.notes p {
+  margin: 6px 0;
+}
