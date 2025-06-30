@@ -86,13 +86,18 @@ body {
 
 .notes {
   margin-top: 20px;
-  background-color: #fff4e6;
-  padding: 15px;
-  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fce97f;
+  padding: 20px;
+  border-radius: 12px;
+  backdrop-filter: blur(4px);
   max-width: 400px;
   margin-left: auto;
   margin-right: auto;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 .notes p {
-  margin: 6px 0;
+  margin: 8px 0;
 }
+
